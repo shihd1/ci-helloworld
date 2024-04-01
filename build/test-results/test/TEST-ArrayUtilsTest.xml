@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayUtilsTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2024-04-01T20:03:20" hostname="darrens-mbp.acasmart.jh.edu" time="0.017">
+  <properties/>
+  <testcase name="testCountOf_EmptyArray()" classname="ArrayUtilsTest" time="0.008"/>
+  <testcase name="testCountOf_TargetDoesNotExist()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testFindLastNull()" classname="ArrayUtilsTest" time="0.001"/>
+  <testcase name="testFindLastEmpty()" classname="ArrayUtilsTest" time="0.001"/>
+  <testcase name="testOddOrPositiveBothPositivesAndNegatives()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testCountOf_SingleElementArray_TargetMatches()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testCountOf_TargetExists()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testCountOf_SingleElementArray_TargetDoesNotMatch()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testFindLastNonExistent()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testOddOrPosAllPositives()" classname="ArrayUtilsTest" time="0.001"/>
+  <testcase name="testOddOrPosNull()" classname="ArrayUtilsTest" time="0.0"/>
+  <testcase name="testFindLastExistsFirstElement()" classname="ArrayUtilsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
